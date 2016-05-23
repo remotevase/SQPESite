@@ -1,2 +1,2 @@
-# SQPESite
-The New and Improved SQPE Website!
+#The ServeQuake MCPE Server Website
+Source Code
